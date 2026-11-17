@@ -4,5 +4,6 @@ __pycache__
 .cache
 artifacts
 data/*
+!data/.gitkeep
 sort
 predictions.csv
