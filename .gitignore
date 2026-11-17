@@ -1,0 +1,8 @@
+.DS_Store
+.venv
+__pycache__
+.cache
+artifacts
+data/*
+sort
+predictions.csv
